@@ -1,0 +1,11 @@
+Model Information:
+* title:	small robot
+* source:	https://sketchfab.com/3d-models/small-robot-32df4a963e4e48fe91c062e37c02e27b
+* author:	JiHoBoBN (https://sketchfab.com/bbbjihwan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "small robot" (https://sketchfab.com/3d-models/small-robot-32df4a963e4e48fe91c062e37c02e27b) by JiHoBoBN (https://sketchfab.com/bbbjihwan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
